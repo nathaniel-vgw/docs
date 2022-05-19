@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: Nathaniel's Docs
+theme:
+  name: material
+  palette:
+      scheme: slate
+  features:
+    - instant
+    - navigation.expand
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+    - tabs
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
