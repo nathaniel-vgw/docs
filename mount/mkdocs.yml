@@ -15,3 +15,5 @@ theme:
     - toc.integrate
   icon:
     repo: fontawesome/brands/github
+markdown_extensions:
+  - pymdownx.keys
