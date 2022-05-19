@@ -2,6 +2,13 @@
 
 ## New to Mac Shortcuts
 
+### Spotlight
+Spotlight can help you quickly find apps, documents, emails and other items on your Mac. Simply type and find.
+
+Use the command  ++command+space++
+
+![Spotlight Search Screenshot](../img/shortcuts/spotlight.png)
+
 ### Screenshoting
 Screenshoting is made simple on a mac when you know the shortcuts, the following is just s few.
 
