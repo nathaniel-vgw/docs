@@ -40,3 +40,23 @@ Once installed, your terminal shell will become the talk of the town or your mon
 ***Links***
 
 - [Github](https://github.com/ohmyzsh/ohmyzsh)
+
+## Powerlevel10k
+Presuming you setup the above Oh My Zsh! You should install a theme, my favorite of which being Powerlevel10k. Power 10k I think just makes the terminal much nicer to use.
+
+![Screenshot of Terminal](img/../../img/terminal/powerlevel10k/terminalScreenshot.png)
+
+To take advantage fully of Powerlevel10k you should install a version of [Nerd Fonts](https://www.nerdfonts.com/) which has an assortment of images in the font to make the terminal easier to use at a glance.
+
+![Nerd Fonts Page](../img/terminal/powerlevel10k/nerdfonts.png)
+
+**Install**
+
+```bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+**Links**
+
+- [PowerLevel10k Github](https://github.com/romkatv/powerlevel10k)
+- [Nerd Fonts](https://www.nerdfonts.com/)
