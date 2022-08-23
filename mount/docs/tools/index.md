@@ -17,6 +17,18 @@ Rectangles is a very powerful yet simple tool that bring what I feel is very Win
 brew install --cask rectangle
 ```
 
+## Finder
+Well this isn't a tool but settings for a pre-existing tool on MacOS. These will be a few settings that will make using finder more convinient. 
+### Finder Path Bar
+This is amazing! As someone who has moved from Windows/Ubuntu to OSX there are some assumptions I made for example file navigation but this is the best setting I have found to make using Finder more convenient.
+![Screenshot of the Path bar shown in finder](../img/tools/finder/showPath.png)
+
+**Command**
+Enable the Path Bar with the following:
+```bash
+defaults write com.apple.finder ShowPathbar -bool true
+```
+
 ## iTerm2
 The base terminal too boring? Not powerful enough or the most important question, is it lacking tiling? If any of the previous questions are applicable to you then what you need is iTerm2. The keep it simple stupid approach to your terminal.
 ![iTerm2 Image](../img/tools/iterm2/iterm2.png)
